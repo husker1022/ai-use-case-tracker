@@ -1,4 +1,4 @@
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwNZgv0jNmnHtZXogqzPkc2tco0SgtCdYDCsDKpjPZBIuL-w0pieJMQuWLuolm7tx-_/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw8OmH1_mPNxciTUWEQvS2lO7804Nh9f8tIH5uPXrJQVKbZMbQchfamx4tluzx55flt/exec';
 
 module.exports = async function handler(req, res) {
     const params = new URLSearchParams(req.query);
